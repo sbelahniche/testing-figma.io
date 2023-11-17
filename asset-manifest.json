@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/testing-figma.io/static/css/main.6f1d400d.css",
+    "main.js": "/testing-figma.io/static/js/main.dcec260e.js",
+    "static/js/787.88dfdeb5.chunk.js": "/testing-figma.io/static/js/787.88dfdeb5.chunk.js",
+    "index.html": "/testing-figma.io/index.html",
+    "main.6f1d400d.css.map": "/testing-figma.io/static/css/main.6f1d400d.css.map",
+    "main.dcec260e.js.map": "/testing-figma.io/static/js/main.dcec260e.js.map",
+    "787.88dfdeb5.chunk.js.map": "/testing-figma.io/static/js/787.88dfdeb5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6f1d400d.css",
+    "static/js/main.dcec260e.js"
+  ]
+}
